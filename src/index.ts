@@ -1,3 +1,3 @@
-const a = (c) => {
-  console.log(c);
+export const say = (name: string): void => {
+  console.log(`hello,${name}`);
 };
