@@ -1,3 +1,4 @@
+```bash
 # 1、创建项目
 mkdir projectName
 
@@ -126,3 +127,4 @@ touch settings.json
   
   # 配置package.json
   "commit-msg": "commitlint -e $GIT_PARAMS"
+```
